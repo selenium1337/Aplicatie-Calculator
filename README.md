@@ -1,2 +1,5 @@
-# Aplicatie Calculator
- O aplicatie care calculeaza.
+
+**Salut**, ce faci?
+Aceasta este *functia* despre care vorbeam:
+
+    def main():
