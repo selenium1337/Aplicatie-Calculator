@@ -15,6 +15,9 @@ class Calculator:
 	def set_operator(self, operator):
 		self.operator = operator
 		
+	def substract(self, a, b):
+		self.rezultat = a - b
+		
 instance = Calculator()
 instance.divide(2, 4)
 instance.get_rezultat()
